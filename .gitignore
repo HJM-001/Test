@@ -1,6 +1,13 @@
 # Prerequisites
 *.d
+*.ncb
+*.db
+*.sdf
+5678/*
+!5678/*.hjm
 
+/**/[Dd]ebug
+/**/ipch/*
 
 # Compiled Object files
 *.slo
@@ -32,5 +39,3 @@
 *.out
 *.app
 
-!5678/desktop.hjm
-5678/
