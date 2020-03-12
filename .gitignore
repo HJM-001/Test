@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+5678/
+!5678/*.hjm
 
 # Compiled Object files
 *.slo
